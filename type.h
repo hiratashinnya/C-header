@@ -15,5 +15,6 @@ typedef S4 signed long
 typedef VD void
 typedef PL float
 typedef DL double
+typedef ST struct
 
 #endif /* _TYPE_ */
