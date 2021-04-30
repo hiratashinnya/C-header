@@ -19,5 +19,4 @@
 #define S2_MIN (S2)0x8000
 #define S4_MIN (S4)0x80000000
 
-
 #endif
