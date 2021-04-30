@@ -1,5 +1,5 @@
-#ifndef _type_
-#define _type_
+#ifndef _TYPE_
+#define _TYPE_
 
 /* unsigned */
 typedef U1 unsigned char
@@ -16,4 +16,4 @@ typedef VD void
 typedef PL float
 typedef DL double
 
-#endif
+#endif /* _TYPE_ */
